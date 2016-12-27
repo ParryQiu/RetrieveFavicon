@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Helper.RetrieveFavicon", "Common.Helper.RetrieveFavicon\Common.Helper.RetrieveFavicon.csproj", "{86F1BF02-D021-4293-BB45-EB0FDC9C4F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Helper.RetrieveFavicon.Test", "Common.Helper.RetrieveFavicon.Test\Common.Helper.RetrieveFavicon.Test.csproj", "{57B153CF-413E-4062-AFF5-A80E98E9D20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F1BF02-D021-4293-BB45-EB0FDC9C4F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F1BF02-D021-4293-BB45-EB0FDC9C4F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F1BF02-D021-4293-BB45-EB0FDC9C4F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F1BF02-D021-4293-BB45-EB0FDC9C4F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B153CF-413E-4062-AFF5-A80E98E9D20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B153CF-413E-4062-AFF5-A80E98E9D20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B153CF-413E-4062-AFF5-A80E98E9D20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B153CF-413E-4062-AFF5-A80E98E9D20C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
