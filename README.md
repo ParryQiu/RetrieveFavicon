@@ -1,6 +1,11 @@
 # RetrieveFavicon
 Retrieve favicon from any website url using C#.
 
+# Retrieve favicon type
+* direct retrieve `$website url/favicon.ico`
+* retrieve `href` from website content where contains `<link rel="* icon" href="..." />`
+* retrieve `href` from website content where contains `<link rel="apple-touch-icon" href="..." />`
+
 # Usage
 
 ```
