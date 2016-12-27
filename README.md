@@ -1,5 +1,6 @@
 # RetrieveFavicon
 Retrieve favicon from any website url using C#.
+A part of project [GuGuJianKong](https://github.com/ParryQiu/GuGuJianKong) backend API.
 
 # Retrieve favicon type
 * direct retrieve `$website url/favicon.ico`
